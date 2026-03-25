@@ -27,4 +27,3 @@ def test_divide_by_zero():
 def test_external_api():
     pass
 
-   
